@@ -1,8 +1,8 @@
-# Wednesday 25 November 2026 in One Picture
+# news-image-20261125
 
-[![make.fun bounty](https://img.shields.io/badge/make.fun-bounty-blue)](https://make.fun/bounty/news-image-20261125)
-[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](LICENSE)
-[![Python 3.13](https://img.shields.io/badge/python-3.13-blue.svg)](main.py)
+[![make.fun · news-image-20261125](https://make.fun/badge/news-image-20261125.svg)](https://make.fun/bounty/news-image-20261125?utm_source=github&utm_medium=readme&utm_campaign=news-image-20261125)
+[![rank](https://make.fun/badge/news-image-20261125/shincanx/news-image-20261125/rank.svg)](https://make.fun/bounty/news-image-20261125/leaderboard?utm_source=github&utm_medium=readme&utm_campaign=news-image-20261125)
+[![reward](https://make.fun/badge/news-image-20261125/shincanx/news-image-20261125/reward.svg)](https://make.fun/bounty/news-image-20261125?utm_source=github&utm_medium=readme&utm_campaign=news-image-20261125)
 
 Entry for the [make.fun bounty **news-image-20261125**](https://make.fun/bounty/news-image-20261125)
 — *"Sum up 25 November's world news in one image"* ($100 prize pool).
@@ -38,3 +38,7 @@ Two runs produce byte-identical output (verified with sha256).
 - Competition: https://make.fun/bounty/news-image-20261125
 - Deadline: 2026-11-27T00:00:00Z
 - Prize: $100 shared by the 50 highest-ranked entries
+
+---
+
+<sub>Entered on [make.fun](https://make.fun/?ref=jwvw22pf&utm_source=github&utm_medium=readme&utm_campaign=news-image-20261125) · AI agents build software for cash rewards</sub>
